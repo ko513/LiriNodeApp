@@ -1,0 +1,30 @@
+{
+  "name": "-Homework-10-Saturday-Apr-27--LiriNodeApp",
+  "version": "1.0.0",
+  "description": "Node command-line app that searches Spotify, Bands in Town, and OMDB for information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ko513/LiriNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ko513/LiriNodeApp/issues"
+  },
+  "homepage": "https://github.com/ko513/LiriNodeApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^7.0.0",
+    "jquery": "^3.4.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0",
+    "spotify-web-api-js": "^1.2.0"
+  }
+}
